@@ -8,4 +8,4 @@ This flie was changed for third times！
 
 This is the fourth change！
 
-这是为了dev分支做的修改
+Creating a new branch is quick & simple.
